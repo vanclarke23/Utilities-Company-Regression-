@@ -1,5 +1,4 @@
 # Utilities-Company-Regression-
-# AFM 244 – Week 10 Assignment
 
 ## Overview
 This notebook develops and evaluates regression models to predict revenue using production and weather-related variables. Several models are compared to determine which provides the most accurate predictions.
